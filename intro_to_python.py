@@ -1,5 +1,4 @@
 import numpy as np
-###list = test_intro_to_python.py###
 list = 0
 if list == 0 :
   list = ([1,2,3], [4,5,6], [7,8,9])
